@@ -101,6 +101,15 @@ header,
   background-size: cover;
 }
 
+.parallax-skills {
+  background-image: url("./images/coffee.png");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .carousel-item {
   height: 600px;
 }
@@ -150,10 +159,14 @@ header,
   background-color: black;
 }
 
-.carousel-control-prev {
+.carousel-indicators .active{
+  background-color: #00695c;
+}
+
+.carousel-control-prev span {
   background-color: black;
 }
 
-.carousel-control-next {
+.carousel-control-next span {
   background-color: black;
 }
