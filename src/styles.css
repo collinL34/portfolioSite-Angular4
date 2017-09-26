@@ -25,7 +25,7 @@ header,
 }
 
 .view {
-  background: url("./images/intro.png")no-repeat center center fixed;
+  background: url("./assets/intro.png")no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -84,7 +84,7 @@ header,
 }
 
 .parallax {
-  background-image: url("./images/coding.png");
+  background-image: url("./assets/coding.png");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;
@@ -93,7 +93,7 @@ header,
 }
 
 .parallax-about {
-  background-image: url("./images/about.png");
+  background-image: url("./assets/about.png");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;
@@ -102,7 +102,7 @@ header,
 }
 
 .parallax-skills {
-  background-image: url("./images/coffee.png");
+  background-image: url("./assets/coffee.png");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;
@@ -123,7 +123,7 @@ header,
 }
 
 .ed {
-  background-image: url("./images/about.png");
+  background-image: url("./assets/about.png");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;
