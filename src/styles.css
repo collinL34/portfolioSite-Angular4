@@ -173,7 +173,7 @@ header,
 
 .aut {
   background-image: url("./assets/autism.png");
-  min-height: 700px;
+  min-height: 690px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -181,7 +181,7 @@ header,
 
 .bear {
   background-image: url("./assets/bears.png");
-  min-height: 700px;
+  min-height: 690px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -189,7 +189,7 @@ header,
 
 .port {
   background-image: url("./assets/personalsite.png");
-  min-height: 700px;
+  min-height: 690px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -197,7 +197,7 @@ header,
 
 .game {
   background-image: url("./assets/gameBoard.png");
-  min-height: 700px;
+  min-height: 690px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -205,7 +205,7 @@ header,
 
 .pokemon {
   background-image: url("./assets/pokemon.png");
-  min-height: 700px;
+  min-height: 690px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
