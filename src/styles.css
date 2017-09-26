@@ -170,3 +170,15 @@ header,
 .carousel-control-next span {
   background-color: black;
 }
+
+.aut {
+  background-image: url("./assets/autism.png");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
