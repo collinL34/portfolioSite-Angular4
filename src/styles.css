@@ -1,27 +1,18 @@
 html,
 body,
 header,
-.view {
-  height: 100%;
+@media (max-width: 740px) {
+  .full-height,
+  .full-height body,
+  .full-height header,
+  .full-height header .view {
+    height: 700px;
+  }
 }
 
 .title {
   margin-top: 200px;
-  margin-left: 40px;
-}
-
-.navbar {
-  background-color: transparent;
-}
-
-.top-nav-collapse {
-  background-color: #2E2E2E;
-}
-
-@media only screen and (max-width: 768px) {
-  .navbar {
-    background-color: #2E2E2E;
-  }
+  /*margin-left: 40px;*/
 }
 
 .view {
@@ -159,7 +150,7 @@ header,
   background-color: black;
 }
 
-.carousel-indicators .active{
+.carousel-indicators .active {
   background-color: #00695c;
 }
 
