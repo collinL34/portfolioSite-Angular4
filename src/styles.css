@@ -162,6 +162,16 @@ header,
   background-color: black;
 }
 
+
+@media (min-width: 776px) {
+  .carousel .view ul li {
+    display: inline;
+  }
+  .carousel .view .full-bg-img ul li .flex-item {
+    margin-bottom: 1.5rem;
+  }
+}
+
 .aut {
   background-image: url("./assets/autism.png");
   min-height: 690px;
@@ -201,4 +211,3 @@ header,
   background-repeat: no-repeat;
   background-size: cover;
 }
-
